@@ -114,6 +114,7 @@ public class MainActivity extends AppCompatActivity {
                 textDetails.setText(user.name + ", " + user.email);
                 inputEmail.setText("");
                 inputName.setText("");
+
                 toggleButton();
 
             }
